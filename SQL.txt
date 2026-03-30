@@ -1,1 +1,0 @@
-Update Grades Set IsAvailable=0 WHERE Grade_PK=1;
