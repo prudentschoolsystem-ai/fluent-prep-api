@@ -1,0 +1,1 @@
+Update Grades Set IsAvailable=1 WHERE Grade_PK=2;Update Grades Set IsAvailable=1 WHERE Grade_PK=3;Update Updates SET VersionFile='Version0002';
