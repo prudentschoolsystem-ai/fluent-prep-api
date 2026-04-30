@@ -1,0 +1,7 @@
+UPDATE Chapters SET Chapter_PK = 0 WHERE Chapter_PK = 11;
+UPDATE Chapters SET Chapter_PK = 11 WHERE Chapter_PK = 15;
+UPDATE Chapters SET Chapter_PK = 15 WHERE Chapter_PK = 0;
+UPDATE Chapters SET Chapter_PK = 0 WHERE Chapter_PK = 13;
+UPDATE Chapters SET Chapter_PK = 13 WHERE Chapter_PK = 14;
+UPDATE Chapters SET Chapter_PK = 14 WHERE Chapter_PK = 0;
+Update Updates SET VersionFile='Version0003';
